@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/ryuichiueda/raspimouse_ros.svg?branch=master)](https://travis-ci.org/ryuichiueda/raspimouse_ros)
-
 こちらは書籍用に開発をストップして、新しいバージョンに移行します。
 
 * 新しいバージョン: https://github.com/ryuichiueda/raspimouse_ros_2
